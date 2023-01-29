@@ -1,16 +1,17 @@
-### Hi there 👋
+```zsh
+> neofetch
+```
 
-<!--
-**NX-GoldJust/NX-GoldJust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="[https://avatars.githubusercontent.com/u/28543376?v=4](https://cdn.discordapp.com/avatars/998317546614816879/4549cde189c4d96f3a3366414c15a357.png?size=4096)" alt="GoldJust" width="275" /> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+-------------------------
+OS: Windows Pro
+Sexe: Homme
+Localisation: France
+Langages: Python
+Loisirs: Développer
+Discord: GoldJust#7280
+-------------------------
+```
+![Commit Snake Game](https://raw.githubusercontent.com/Link0Darck/Link_Darck/main/img/github-contribution-grid-snake.sv
