@@ -10,3 +10,4 @@ Loisirs: Développer
 Discord: GoldJust#7280
 -------------------------
 ```
+![Commit Snake Game](https://raw.githubusercontent.com/Link0Darck/Link_Darck/main/img/github-contribution-grid-snake.svg)
