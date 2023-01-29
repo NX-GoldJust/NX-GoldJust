@@ -2,7 +2,7 @@
 
 ```csharp
 -------------------------
-OS: Windows Pro
+OS: Windows 
 Sexe: Homme
 Localisation: France
 Langages: Python
